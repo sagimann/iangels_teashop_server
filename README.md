@@ -30,3 +30,7 @@ Run
 * `rails server`
 * Start the [`Tea Shop UI`](https://github.com/sagimann/tea-shop-ui-test) on the same machine
 
+Tests
+-----
+* Unit tests for the TeaItem entity
+* Integration tests for the TeaController class
